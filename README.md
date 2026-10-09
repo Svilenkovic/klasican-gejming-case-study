@@ -4,7 +4,7 @@
 
 Serbian gaming news portal with its own CMS, a hand-ordered front page slider and live updates over WebSocket.
 
-**[klasicangejming.com](https://klasicangejming.com/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/klasican-gejming) · [Srpski](README.sr.md)
+**[klasicangejming.com](https://klasicangejming.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/klasican-gejming) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,10 +37,10 @@ The front page slider shows five featured articles. The first version picked the
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 90 | 100 | 100 | 100 |
-| Desktop | 100 | 100 | 100 | 100 |
+| Mobile | 89 | 100 | 100 | 100 |
+| Desktop | 95 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ItemList`, `Organization`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ItemList`, `Organization`.
 
 ## Screenshots
 
