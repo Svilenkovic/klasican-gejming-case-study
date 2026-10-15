@@ -37,8 +37,8 @@ The front page slider shows five featured articles. The first version picked the
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 89 | 100 | 100 | 100 |
-| Desktop | 95 | 100 | 100 | 100 |
+| Mobile | 92 | 100 | 100 | 100 |
+| Desktop | 99 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `ItemList`, `Organization`.
 
